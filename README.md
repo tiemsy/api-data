@@ -23,6 +23,12 @@
 
 - <code>php artisan migrate</code> - **Generate tables in database**
 
+<h4>Install node and vue</h4>
+
+- <code>npm install</code>
+
+- <code>npm run dev</code> or <code>npm run watch</code>
+
 <h4>Don't forget to put these two lines in your .env about sessions and caches</h4>
 
 <div>CACHE_DRIVER = file</div>
